@@ -1,0 +1,7 @@
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\bin\Debug\Taxi Fee.exe.config
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\bin\Debug\Taxi Fee.exe
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\bin\Debug\Taxi Fee.pdb
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\obj\Debug\Taxi Fee.csprojAssemblyReference.cache
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\obj\Debug\Taxi Fee.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\obj\Debug\Taxi Fee.exe
+P:\Digital\VS\18Yat Leung\Taxi Fee\Taxi Fee\obj\Debug\Taxi Fee.pdb
