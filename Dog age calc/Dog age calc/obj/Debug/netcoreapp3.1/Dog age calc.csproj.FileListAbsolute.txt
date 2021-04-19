@@ -1,0 +1,13 @@
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\bin\Debug\netcoreapp3.1\Dog age calc.exe
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\bin\Debug\netcoreapp3.1\Dog age calc.deps.json
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\bin\Debug\netcoreapp3.1\Dog age calc.runtimeconfig.json
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\bin\Debug\netcoreapp3.1\Dog age calc.runtimeconfig.dev.json
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\bin\Debug\netcoreapp3.1\Dog age calc.dll
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\bin\Debug\netcoreapp3.1\Dog age calc.pdb
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.csprojAssemblyReference.cache
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.AssemblyInfoInputs.cache
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.AssemblyInfo.cs
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.dll
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.pdb
+P:\Digital\VS\18Yat Leung\Dog age calc\Dog age calc\obj\Debug\netcoreapp3.1\Dog age calc.genruntimeconfig.cache
